@@ -1,0 +1,9 @@
+C:\Users\Christopher\Documents\SharpDevelop Projects\Base_De_Datos\Base_De_Datos\bin\Debug\Base_De_Datos.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\Base_De_Datos\Base_De_Datos\bin\Debug\Base_De_Datos.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\Base_De_Datos\Base_De_Datos\obj\Debug\Base_De_Datos.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\Base_De_Datos\Base_De_Datos\obj\Debug\Base_De_Datos.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\Base_De_Datos\Base_De_Datos\obj\Debug\Base_De_Datos.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\Base_De_Datos\Base_De_Datos\obj\Debug\Base_De_Datos.MainForm.resources
+C:\Users\Christopher\Documents\SharpDevelop Projects\Base_De_Datos\Base_De_Datos\obj\Debug\Base_De_Datos.csproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\Base_De_Datos\Base_De_Datos\obj\Debug\Base_De_Datos.Alumno.resources
+C:\Users\Christopher\Documents\SharpDevelop Projects\Base_De_Datos\Base_De_Datos\obj\Debug\Base_De_Datos.Materias.resources
